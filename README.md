@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&width=120&section=header&fontSize=90)
 
 <div align=left>
-<h1>💻Aspiring Developer</h1>
+<h1>💻컴퓨터공학부 재학생</h1>
 </div>
 
  <div align=left>
