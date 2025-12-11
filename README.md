@@ -40,7 +40,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ukki5782)](https://solved.ac/ukki5782)
   
 <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlee777&layout=compact&show_icons=true&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api?username=dhlee777&show_icons=true&theme=radical&cache_seconds=7200">
  <br><br>
 </div>
 
